@@ -38,6 +38,7 @@ function getCommits(username, repo) {
                     '<h3>' + commits[i].commit.message + '</h3>' +
                     '<p>' + new Date(commits[i].commit.author.date).toLocaleString() + '</p>'+
                     '<a href="https://github.com/' + username + '/' + repo + '/commit/' + commits[i].sha + '">Ver Commit no GitHub</a>';
+
             }
             document.getElementById('commits').innerHTML = output;
         } else if (this.status === 404) {
