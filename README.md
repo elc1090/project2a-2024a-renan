@@ -1,44 +1,30 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
-> 1. Baixe este arquivo e edite o texto em formato Markdown conforme as instruções a seguir.
-> 2. Substitua todos os blocos "Preencha aqui" por informações do seu projeto. 
-> 3. Substitua a imagem por pelo menos um screenshot do projeto (arquivo pode ser armazenado no repositório ou em URL externa). GIFs animados também são permitidos!
-> 4. Remova todas as instruções de entrega.
-> 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
-> 6. Entregue este README.md dentro da pasta raiz do repositório de entrega. 
-
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
-
+![image](https://github.com/elc1090/project2a-2024a-renan/assets/76953726/33ea2820-df6b-49b1-8a05-5c306a5ce98a)
+![image](https://github.com/elc1090/project2a-2024a-renan/assets/76953726/834a4c9c-1462-4fbf-9ceb-031f2127889d)
 
 #### Daploy
-
-Preencha aqui a URL para acesso ao site publicado
-
-
+https://t2-five-nu.vercel.app/
 #### Desenvolvedores
 
-Preencha aqui os nomes de participantes da dupla que desenvolveu o trabalho
-
+Renan Vinicius Nikodem Bick  
 
 #### Ambiente de desenvolvimento
 
 Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
-- VS Code
-- Outras
+- WebStorm
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de tutoriais/vídeos consultados
-- Créditos para colegas que colaboraram
-
+-GitHub API
+-BingChat
+-W3
+-StackOverflow
 
 #### Bastidores
 
-
-Preencha aqui um breve relato dos bastidores da realização deste exercício, com uma parte focada no trabalho em dupla e outra individual com impressões de cada participante.
-
-
+Foi bem tranquilo de fazer o exercicio pois utilizei o básico do html, css e js.
+A maioria do programa eu sabia como desenvolver e que não sabia pesquisei como o dark mode .....
 
 ---
-Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2023a) em 2023a
+Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2024a) em 2024a
